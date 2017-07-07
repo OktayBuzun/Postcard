@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         enterMessageTextfield.text = ""
         enterMessageTextfield.resignFirstResponder()
         
+        // adding a comment here to test comits
         
         nameLabel.text = enterNameTExtField.text
         nameLabel.textColor = UIColor.blue
