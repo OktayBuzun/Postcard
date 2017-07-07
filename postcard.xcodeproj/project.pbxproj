@@ -14,6 +14,8 @@
 		C6DF6E231F03A64B0023FFC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6DF6E211F03A64B0023FFC6 /* LaunchScreen.storyboard */; };
 		C6DF6E2E1F03A64B0023FFC6 /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DF6E2D1F03A64B0023FFC6 /* postcardTests.swift */; };
 		C6DF6E391F03A64B0023FFC6 /* postcardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DF6E381F03A64B0023FFC6 /* postcardUITests.swift */; };
+		C6DF6E471F03CD6B0023FFC6 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C6DF6E461F03CD6B0023FFC6 /* SagradaFamilia.jpeg */; };
+		C6DF6E491F03D7A50023FFC6 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C6DF6E481F03D7A50023FFC6 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		C6DF6E341F03A64B0023FFC6 /* postcardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6DF6E381F03A64B0023FFC6 /* postcardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardUITests.swift; sourceTree = "<group>"; };
 		C6DF6E3A1F03A64B0023FFC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6DF6E461F03CD6B0023FFC6 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		C6DF6E481F03D7A50023FFC6 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		C6DF6E171F03A64B0023FFC6 /* postcard */ = {
 			isa = PBXGroup;
 			children = (
+				C6DF6E481F03D7A50023FFC6 /* AlbertEinsteinStamp.jpg */,
+				C6DF6E461F03CD6B0023FFC6 /* SagradaFamilia.jpeg */,
 				C6DF6E181F03A64B0023FFC6 /* AppDelegate.swift */,
 				C6DF6E1A1F03A64B0023FFC6 /* ViewController.swift */,
 				C6DF6E1C1F03A64B0023FFC6 /* Main.storyboard */,
@@ -233,6 +239,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6DF6E231F03A64B0023FFC6 /* LaunchScreen.storyboard in Resources */,
+				C6DF6E471F03CD6B0023FFC6 /* SagradaFamilia.jpeg in Resources */,
+				C6DF6E491F03D7A50023FFC6 /* AlbertEinsteinStamp.jpg in Resources */,
 				C6DF6E201F03A64B0023FFC6 /* Assets.xcassets in Resources */,
 				C6DF6E1E1F03A64B0023FFC6 /* Main.storyboard in Resources */,
 			);
